@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|f:\\projects\\unity\\github\\snake\\snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|f:\\projects\\unity\\github\\snake\\snake\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\Point.cs",
+              "RelativeDocumentMoniker": "Point.cs",
+              "ToolTip": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\Point.cs",
+              "RelativeToolTip": "Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:38:02.425Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "ToolTip": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T08:51:55.792Z",
               "EditorCaption": ""

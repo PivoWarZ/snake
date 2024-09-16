@@ -1,25 +1,28 @@
-﻿using System.Runtime.CompilerServices;
+﻿using snake; //необходимо подключать область snake, иначе наш созданный класс не виден
+using System.Runtime.CompilerServices;
 
-int x1  = 1;
 
-int y1 = 3;
 
-char sym1 = '*';
+Point p1 = new Point();
 
-Draw (x1, y1, sym1);
+    p1.x = 3;
 
-int x2 = 5;
+    p1.y = 5;
 
-int y2 = 5;
+    p1.sym = '*';
 
-char sym2 = '#';
+    p1.Draw();
 
-Draw(x2, y2, sym2);
 
-static void Draw (int x, int y, char sym)
-    {
+Point p2 = new Point();
 
-        Console.SetCursorPosition(x, y);
-        Console.Write(sym);
+    p2.x = 1;
 
-    }
+    p2.y = 2;
+
+    p2.sym = '#';
+
+    p2.Draw();
+
+Console.ReadLine();
+
