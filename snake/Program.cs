@@ -1,5 +1,25 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("проверяем обновление файлов");
+﻿using System.Runtime.CompilerServices;
 
-Console.WriteLine("git ignore");
+int x1  = 1;
+
+int y1 = 3;
+
+char sym1 = '*';
+
+Draw (x1, y1, sym1);
+
+int x2 = 5;
+
+int y2 = 5;
+
+char sym2 = '#';
+
+Draw(x2, y2, sym2);
+
+static void Draw (int x, int y, char sym)
+    {
+
+        Console.SetCursorPosition(x, y);
+        Console.Write(sym);
+
+    }

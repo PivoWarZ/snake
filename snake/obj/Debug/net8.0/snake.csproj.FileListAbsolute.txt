@@ -1,0 +1,15 @@
+F:\Projects\Unity\GitHub\snake\snake\bin\Debug\net8.0\snake.exe
+F:\Projects\Unity\GitHub\snake\snake\bin\Debug\net8.0\snake.deps.json
+F:\Projects\Unity\GitHub\snake\snake\bin\Debug\net8.0\snake.runtimeconfig.json
+F:\Projects\Unity\GitHub\snake\snake\bin\Debug\net8.0\snake.dll
+F:\Projects\Unity\GitHub\snake\snake\bin\Debug\net8.0\snake.pdb
+F:\Projects\Unity\GitHub\snake\snake\obj\Debug\net8.0\snake.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Unity\GitHub\snake\snake\obj\Debug\net8.0\snake.AssemblyInfoInputs.cache
+F:\Projects\Unity\GitHub\snake\snake\obj\Debug\net8.0\snake.AssemblyInfo.cs
+F:\Projects\Unity\GitHub\snake\snake\obj\Debug\net8.0\snake.csproj.CoreCompileInputs.cache
+F:\Projects\Unity\GitHub\snake\snake\obj\Debug\net8.0\snake.sourcelink.json
+F:\Projects\Unity\GitHub\snake\snake\obj\Debug\net8.0\snake.dll
+F:\Projects\Unity\GitHub\snake\snake\obj\Debug\net8.0\refint\snake.dll
+F:\Projects\Unity\GitHub\snake\snake\obj\Debug\net8.0\snake.pdb
+F:\Projects\Unity\GitHub\snake\snake\obj\Debug\net8.0\snake.genruntimeconfig.cache
+F:\Projects\Unity\GitHub\snake\snake\obj\Debug\net8.0\ref\snake.dll
