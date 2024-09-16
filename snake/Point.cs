@@ -13,6 +13,15 @@ namespace snake
         public int y;
         public char sym;
 
+        public Point (int pX, int pY, char pSym)
+        {
+
+            x = pX;
+            y = pY;
+            sym = pSym;
+
+        }
+
         public void Draw()
         {
 
