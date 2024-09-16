@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|f:\\projects\\unity\\github\\snake\\snake\\verticalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|solutionrelative:verticalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|f:\\projects\\unity\\github\\snake\\snake\\horizontalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|solutionrelative:horizontalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|f:\\projects\\unity\\github\\snake\\snake\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,20 +26,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Point.cs",
               "DocumentMoniker": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\Point.cs",
               "RelativeDocumentMoniker": "Point.cs",
               "ToolTip": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\Point.cs",
               "RelativeToolTip": "Point.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T12:38:02.425Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VerticalLine.cs",
+              "DocumentMoniker": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\VerticalLine.cs",
+              "RelativeDocumentMoniker": "VerticalLine.cs",
+              "ToolTip": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\VerticalLine.cs*",
+              "RelativeToolTip": "VerticalLine.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:20:22.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HorizontalLine.cs",
+              "DocumentMoniker": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\HorizontalLine.cs",
+              "RelativeDocumentMoniker": "HorizontalLine.cs",
+              "ToolTip": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\HorizontalLine.cs*",
+              "RelativeToolTip": "HorizontalLine.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:39:19.765Z",
               "EditorCaption": ""
             },
             {
@@ -42,7 +76,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T08:51:55.792Z",
               "EditorCaption": ""

@@ -12,29 +12,12 @@ Point p2 = new Point(1, 2, '#');
 
    // p2.Draw();
 
-//Console.ReadLine();
+HorizontalLine hlLine = new HorizontalLine(4, 10, 4, '-');
 
-List<int> inList = new List<int>();
+hlLine.Drow();
 
-    inList.Add(1);
-    inList.Add(2);
-    inList.Add(3);
+VerticalLine vLine = new VerticalLine(4, 10, 4, '|');
 
-    foreach (int i in inList)
-    {
+vLine.Drow();
 
-        Console.WriteLine(i);
-
-    }
-
-List<Point> list = new List<Point>();
-list.Add(p1);
-list.Add(p2);
-
-foreach (Point i in list)
-    {
-
-        i.Draw();
-
-    }
 Console.ReadLine();
