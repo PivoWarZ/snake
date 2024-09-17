@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|solutionrelative:verticalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|f:\\projects\\unity\\github\\snake\\snake\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|solutionrelative:figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|f:\\projects\\unity\\github\\snake\\snake\\horizontalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07FD5C07-B6E3-43E4-B352-D22DD028E0E3}|snake.csproj|solutionrelative:horizontalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,20 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Point.cs",
               "DocumentMoniker": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\Point.cs",
               "RelativeDocumentMoniker": "Point.cs",
               "ToolTip": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\Point.cs",
               "RelativeToolTip": "Point.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T12:38:02.425Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\Figure.cs",
+              "RelativeDocumentMoniker": "Figure.cs",
+              "ToolTip": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\Figure.cs",
+              "RelativeToolTip": "Figure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:42:22.396Z",
               "EditorCaption": ""
             },
             {
@@ -50,20 +66,20 @@
               "RelativeDocumentMoniker": "VerticalLine.cs",
               "ToolTip": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\VerticalLine.cs",
               "RelativeToolTip": "VerticalLine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T17:20:22.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HorizontalLine.cs",
               "DocumentMoniker": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\HorizontalLine.cs",
               "RelativeDocumentMoniker": "HorizontalLine.cs",
               "ToolTip": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\HorizontalLine.cs",
               "RelativeToolTip": "HorizontalLine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T16:39:19.765Z",
               "EditorCaption": ""
@@ -76,7 +92,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\Projects\\Unity\\GitHub\\snake\\snake\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T08:51:55.792Z",
               "EditorCaption": ""

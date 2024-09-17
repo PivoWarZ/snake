@@ -1,23 +1,26 @@
 ﻿using snake; //необходимо подключать область snake, иначе наш созданный класс не виден
 using System.Runtime.CompilerServices;
 
+Console.SetWindowSize(width: 80, height: 25); // выставляем размеры окна и отключаем возможность прокрутки
 
 
-Point p1 = new Point(3, 5, '*');
+// отрисовываем рамочку
 
-   // p1.Draw();
+HorizontalLine uplLine = new HorizontalLine(0, 78, 0, '+');
 
+HorizontalLine downlLine = new HorizontalLine(0, 78, 24, '+');
 
-Point p2 = new Point(1, 2, '#');
+VerticalLine leftLine = new VerticalLine(0, 24, 0, '+');
 
-   // p2.Draw();
+VerticalLine rightLine = new VerticalLine(78, 24, 0, '+');
 
-HorizontalLine hlLine = new HorizontalLine(4, 10, 4, '-');
+uplLine.Drow();
 
-hlLine.Drow();
+downlLine.Drow();
 
-VerticalLine vLine = new VerticalLine(4, 10, 4, '|');
+leftLine.Drow();
 
-vLine.Drow();
+rightLine.Drow();
+
 
 Console.ReadLine();
