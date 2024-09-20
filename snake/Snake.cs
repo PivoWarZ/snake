@@ -23,7 +23,7 @@ namespace snake
 
         internal void Move()
         {
-            throw new NotImplementedException();
+            
         }
     }
 }
