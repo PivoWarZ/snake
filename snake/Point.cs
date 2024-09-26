@@ -21,7 +21,7 @@ namespace snake
             sym = pSym;
 
         }
-
+      
         public Point (Point p)
         { 
             x = p.x;
@@ -35,8 +35,8 @@ namespace snake
             {
                 case Direction.RIGHT: x = x + offset; break;
                 case Direction.LEFT: x = x - offset; break;
-                case Direction.UP: y = y + offset; break;
-                case Direction.DOWN: y = y - offset; break;
+                case Direction.UP: y = y - offset; break;
+                case Direction.DOWN: y = y + offset; break;
             }
         }
 
@@ -54,7 +54,11 @@ namespace snake
             return x + " , " + y + " + " + sym;
         }
 
-
+        public void Clear()
+        {
+            sym = ' ';
+            Draw();
+        }
 
 
 
